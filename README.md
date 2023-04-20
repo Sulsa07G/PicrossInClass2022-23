@@ -16,7 +16,7 @@ Here are a few concepts covered (unordered list):
 
 
 Here is some sample code of the starting template for our space class (using backticks):
-`Public Class picrossButton
+` Public Class picrossButton
     Inherits Button
 
     Private _clicked As Boolean = False
@@ -39,7 +39,7 @@ Here is some sample code of the starting template for our space class (using bac
             End If
         End Set
     End Property
-End Class`
+End Class `
  
 ---
 Here is a link to a [markdown cheat sheet:](https://www.markdownguide.org/cheat-sheet/)
